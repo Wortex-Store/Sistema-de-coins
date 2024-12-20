@@ -1,6 +1,6 @@
-# Sistema de fome & sede
+# Sistema de gasolina
 
-⭕ [Aqui](https://github.com/Wortex-Store/Sistema-de-fome-sede/wiki/Sistema%E2%80%90de%E2%80%90fome-sede) você pode consultar todas as informações sobre o sistema de fome & sede.
+⭕ [Aqui](https://github.com/Wortex-Store/Sistema-de-gasolina/wiki/Sistema-de-gasolina) você pode consultar todas as informações sobre o sistema de gasolina.
 
 📲 **Contatos:**
 
