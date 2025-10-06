@@ -1,6 +1,6 @@
 # Sistema de gasolina
 
-⭕ [Aqui](https://github.com/Wortex-Store/Sistema-de-gasolina/wiki/Sistema-de-gasolina) você pode consultar todas as informações sobre o sistema de gasolina.
+⭕ [Aqui](https://github.com/Wortex-Store/Sistema-de-coins/wiki/Sistema-de-coins) você pode consultar todas as informações sobre o sistema de coins.
 
 📲 **Contatos:**
 
